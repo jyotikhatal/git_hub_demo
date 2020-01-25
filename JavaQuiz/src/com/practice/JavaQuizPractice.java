@@ -11,7 +11,7 @@ public class JavaQuizPractice {
 		Arrays.parallelSort(ar,in);
 		for (String string : ar) {
 			System.out.println(str +"");
-			System.out.println("Aruna");
+			//System.out.println("Aruna");
 
 		}
 		System.out.println(Arrays.binarySearch(ar, "b"));	
